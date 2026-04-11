@@ -1,6 +1,6 @@
 # hey, i'm shuja
 
-> building things with code + AI. somewhere between junior and dangerous.
+> building things with code + AI. somewhere between a hobbyist and a mentally unstable developer lol
 
 ---
 

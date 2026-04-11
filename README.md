@@ -7,7 +7,7 @@
 ### about
 
 full stack dev with a thing for AI/ML. i like building stuff that actually
-works — clean interfaces, smart backends, and the occasional rabbit hole into
+works , clean interfaces, smart backends, and the occasional rabbit hole into
 machine learning. still learning every day, and that's the point.
 
 ---

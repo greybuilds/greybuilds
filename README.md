@@ -1,6 +1,6 @@
-# hey, i'm shuja
+# hi I am shuja
 
-> building things with code + AI. somewhere between a hobbyist and a mentally unstable developer lol
+> I build....stuff
 
 ---
 
